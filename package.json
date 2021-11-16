@@ -16,7 +16,7 @@
   "dependencies": {
     "@slack/bolt": "^1.8.0",
     "@slack/web-api": "^5.8.0",
-    "aws-sdk": "^2.643.0",
+    "aws-sdk": "^2.814.0",
     "chrono-node": "^1.4.4",
     "date-fns": "^2.11.0",
     "request": "^2.88.2",
